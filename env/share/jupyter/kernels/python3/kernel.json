@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/Users/johnathonsmith/Udemy/machine_learning/ml_notes/env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
